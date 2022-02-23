@@ -25,7 +25,7 @@ SECRET_KEY = '^1u%jvgv@*70yie$b-ksyc&6jd^md583k!2ufbkv$s8b#z&-_7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['vimal24.herokuapp.com']
+ALLOWED_HOSTS = ['leave24.herokuapp.com']
 
 
 EMAIL_HOST = 'smtp.gmail.com'
